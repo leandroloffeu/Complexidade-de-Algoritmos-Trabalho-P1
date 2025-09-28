@@ -8,8 +8,6 @@
 
 ## Algoritmo RecomendaFacil - Vassouras Tech
 
-**Professor:** Marcio Guarrido  
-**Aluno:** Leandro Loffeu Pereira Costa - Mat. 202212089
 
 Este é um trabalho acadêmico sobre análise de complexidade de algoritmos, implementando e analisando o algoritmo de recomendação da empresa Vassouras Tech.
 
