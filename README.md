@@ -6,8 +6,6 @@
 ### Professor: Márcio Guarrido
 
 
-# Trabalho de Complexidade de Algoritmos
-
 ## Algoritmo RecomendaFacil - Vassouras Tech
 
 **Professor:** Marcio Guarrido  
