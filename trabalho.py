@@ -1,11 +1,3 @@
-"""
-Trabalho de Complexidade de Algoritmos
-Aluno: [Seu Nome]
-Matéria: Complexidade de Algoritmos
-Professor: [Nome do Professor]
-
-Análise do algoritmo RecomendaFácil da empresa Vassouras Tech
-"""
 
 import matplotlib.pyplot as plt
 import numpy as np
